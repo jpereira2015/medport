@@ -1,0 +1,4 @@
+Start with med_main (description)
+Then csv_encode (wikidump)
+then merge (put the two together)
+then make anki
