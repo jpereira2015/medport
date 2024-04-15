@@ -1,28 +1,27 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-
-# Setup Chrome WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-
-# Open a webpage
-driver.get('https://dicionario.priberam.org/detrimento')
-
-# Optionally, wait for some dynamic content to load
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Example of waiting for an element to be visible
+# Setup Chrome WebDriver
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+
+# Open the webpage
+driver.get('https://dicionario.priberam.org/detrimento')
+
+# Wait for the specific section of the word to be visible on the page
 WebDriverWait(driver, 10).until(
-    EC.presence_of_element_located((By.ID, 'some-dynamic-content'))
-)
+    EC.visibility_of_element_located((By.CSS_SELECTOR, 'article.pb-def')))
 
-# Access the content
-content = driver.page_source
+# Get the definition element within the specific section
+definition_element = driver.find_element(By.CSS_SELECTOR, 'article.pb-def .dp-definicao')
 
-# Do something with the content
-print(content)
+# Extract and print the definitions
+definitions = definition_element.find_elements(By.CSS_SELECTOR, '.dp-definicao-linha .def')
+for definition in definitions:
+    print(definition.text)
 
 # Clean up, close the browser
 driver.quit()
