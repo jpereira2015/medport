@@ -1,4 +1,4 @@
-Start with med_main (description)
-Then csv_encode (wikidump)
+Start with med_main (definitions)
+Creat a clean wiki (wikicleanup) 
 then merge (put the two together)
 then make anki

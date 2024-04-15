@@ -1,0 +1,1076 @@
+ 
+<!DOCTYPE html>  
+<html lang="pt-br">
+<head id="Head1"><meta charset="UTF-8" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	detrimento - Dicionário Online Priberam de Português 
+</title><meta name="author" content="Priberam Informática, S.A." /><meta property="og:type" content="website" /><meta property="og:site_name" content="Dicionário Priberam da Língua Portuguesa" /><meta property="og:image" content="https://dicionario.priberam.org/imagem.png" /><meta property="og:title" content="Dicionário Priberam da Língua Portuguesa" />
+    <link rel="canonical" href="https://dicionario.priberam.org/detrimento" />
+    <meta property="og:url" content="https://dicionario.priberam.org/detrimento" /> 
+  <meta name="copyright" content="© 2023 Priberam Informática, S.A. Todos os direitos reservados  - Dicionário Priberam da Língua Portuguesa" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1, user-scalable=yes" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <script>
+    var pp_gemius_extraparameters = new Array('gA=DPLP');
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" /><link rel="alternate" type="application/rss+xml" title="Dicionário Priberam - Palavra do Dia" href="DoDiaRSS.aspx" /><link rel="alternate" type="application/rss+xml" title="Dicionário Priberam - Dúvidas Linguísticas" href="https://www.flip.pt/duvidasrss.aspx" /><link rel="search" type="application/opensearchdescription+xml" title="Dicionário Priberam da Língua Portuguesa" href="dplpiesp.xml" /><link rel="image_src" href="https://dicionario.priberam.org/imagem.png" />
+  
+<script
+  src="/js/jquery.min.js"></script>
+  <script src="/js/all_in_one.js"></script>
+  <link rel="stylesheet" href="/Content/bootstrap.min.css" /><link rel="stylesheet" href="/css/main.css?v=1.121.921" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:300,400,500,700,900|Roboto+Condensed:700&amp;display=swap" /> 
+  <script src="/js/jquery.modal.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1036645/Dicionario_leaderboard', [[970, 250], [970, 90], [750, 300], [1170, 220]], 'div-gpt-ad-1703856294941-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+ <meta name="description" content="Significado de detrimento no Dicionário Priberam da Língua Portuguesa. O que é detrimento" /><meta property="og:description" content="Significado de detrimento no Dicionário Priberam da Língua Portuguesa. O que é detrimento" /><meta property="og:title" content="detrimento" /><meta property="og:image" content="imagem.png" /></head>
+<body>
+  <form method="post" action="./detrimento" id="form">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="aOAEpTHFresa5M6e78RCmuK/F5/JcbIrqzoEbabiNUOqzIK2EeG5xo5rjlifIC1ijyQD0rl0vsImbgANN1IHuZ6rLu86vOeGIBA7nMJZXmu4FMYg4vScQgE//qaZ0isL5iZIbO40Awf2BhsSeH4Ox9dPqtqQXUxhjYle5iPE9+N7BZuj7yZnjc8DnRy9gupykaGvfGPO6mzg01Ol7XcGfr6YNIxn0dOwrEAm6Tvm3zBWBecc5nY+kaxZ3A/JNV4K9gzVltcEPxzGBVZBxDPaUX+EDPWCqEFQDJfeqEZJVrKVKjmvgZ1rWzTzDWHZMaxN/tulXoQ828FfcSTnE8S3qSi553kfoMu3DduQjvqgk7NnqIxGifA+nNbs1Rs5cfOU7oH8/7RM+DsLfXKaR2MQJH8n29cKDdL0cBZEcHctIArOyc1Q3isAp1FICTEqiX6ydjNjU/jHzbqmvwCGZE2919cnsy2/vIPgbWuRzU1DrCEmSn0G5LexgL6AOwU2NE8veFC9ixEkmvTMSdBKUTkoDn7hfZZBM7MaQLWx7GIVmKrLmAKYA24pPCH8OqdAsoU2TArRRLCmZ2Mup72buMrGTXmYydetYYxVX6/gYo/cCADPg1RrhXuJ5tNC8lGHY9IpG7GIBFYQesyXZIPopIbpPH0vamTQyrXP5i8/xCsgeZxLvBThu3jiaQTzo/OmZIbw3z2rcH64HDAU9yCUiX/MDFJfGOwwztDrfcbcXSKJ3k5AKz0G7zoNx5rWzGZw/Wz0yBP7cCLNDuL1fxZyhRylCDzHgb0tRK6zpj79bwPQoWdHSTyQAzlxhEZAfSS/yRwbK5+Q9+/8++F06TMXNgQ72W4YnAxJ8TEvSkk9yb8wNMukPAUuzfGxEbF4gexRVn5RzmL/G5F8iN6enSiTR9HlJjDtLfKBMnBWNuWcVvumD+SWRzmtu2lNbEpIxD7cbJ3ODlIWcV/jrgoLLOYUS/lFpxUNSOi7ktdgan5gJ8id0dN2D4pcmqbpcAcSjnmE8YhjaeibNd8yQg6zfLuS9rdHkRQyrKQouBUHdrZplYi2j00W2lsg3E7S5gWKlp/Hr7RTTas1chFbj+McUB+GSNq7dFYZb5cXS1E9SEuquWnrY68foRQYJGeuMX9sgD05bCpMQp/Ib003+0ciL8Ovu72QNd0jIFqBKjni3c+JNHY8JGivack3W23pgfZVdxvTYoTvquI4o6Sf8FcrjmY6TPm2paQs8aSMlzM4UCwqxQ3smH4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="MhVSV2e5LqX+Dbr+H7eaaoY6H74MQaYp/ShfjEjNThhEuPwBRZgtWy9vP2TfF2QgMAvwgPm7Lzl2vjkw9l0FahnddJY5K3itrMoImzIqmC/EeUD4Ur5zQOP2mub70Eb8FBB6VMb6kwRwXtgQE8n8fVVELPisgMYlp+/S0q7opZv2BKynKCx+hws/kt1TwlF6ZHztzQt6SvjY2XmEH+mzL2wDp3aYskF2Vk4NQchfTFos1hqYr0mY9G+1/dUr5ookjLj9wsXsgyBUv32B89qKp38ZFVvMQCPNJqC+LASEElc=" />  <a href="/" class="--clear dp-logo">
+      <img src="/img/dicionario_single.webp" width="440" height="440" class="dp-logo--quadrado" alt="logotipo" />
+    </a>
+    <div class="dp-topo">
+      <header id="hero">
+        <a href="/" class="--clear dp-logo dp-logo--cortado">
+          <img src="/img/dicionario_single.webp" width="440" height="440" class="dp-logo--quadrado" alt="fundo" />
+          <img src="/img/logobranco.webp" width="166" height="53" class="dp-logo--logo" alt="logotipo" />
+        </a>
+        <nav class="dp-navegacao--barra">
+          <nav class="dp-navegacao__menu hidden-mobile" id="navbar-collapse">
+            <a href="/" class="--clear">Principal</a>
+            <a href="/pesquisar_definicoes" class="--clear">Pesquisa nas Definições</a>
+            <a href="/sobre.aspx" class="--clear">Sobre</a>
+            <a href="/consultar.aspx" class="--clear">Como consultar</a> 
+            <a href="/abreviaturas.aspx" class="--clear">Abreviaturas</a>
+            <a href="https://www.flip.pt/gramatica" target="_blank" class="--clear">
+              Gramática
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+                <rect y="0" width="14" height="14" style="fill: none;"/>
+                <g>
+                  <path d="M5.595,.81h-.7c-.36,0-.66,.29-.66,.65V5.69c0,.35,.3,.65,.66,.65h4.22c.36,0,.65-.3,.65-.65v-.71c.017-.533,.796-.532,.81,0v.71c0,.8-.65,1.46-1.46,1.46H4.895c-.81,0-1.47-.66-1.47-1.46V1.46C3.425,.65,4.085,0,4.895,0h.7c.537,0,.537,.805,0,.81Z"/>
+                  <path d="M5.905,4.1L9.195,.81h-1.84c-.55-.029-.54-.788,0-.81h2.82c.22,0,.4,.18,.4,.4V3.22c-.012,.545-.784,.54-.81,.01V1.38l-3.29,3.3c-.407,.368-.937-.19-.57-.58Z"/>
+                </g>
+              </svg>
+            </a>
+
+ <input type="checkbox" id="toggle" class="theme-toggler__checkbox sr-only" />
+  <label for="toggle" class="toggle" id="theme-toggler">
+  <span>Toggle dark mode</span>
+</label>
+
+    </nav>
+
+               <input type="checkbox" id="active" class="hide">
+      <label for="active" class="menu-btn"><span></span></label>
+      <label for="active" class="close"></label>
+      <div class="wrapper">
+        <img src="/img/logobranco.webp" width="500" height="160" class="logo-mobile" alt="logotipo" />
+        <ul>
+          <li><a href="/">Principal</a></li>
+          <li><a href="/sobre.aspx">Sobre</a></li>
+          <li><a href="/pesquisar_definicoes">Pesquisa nas Definições</a></li>
+          <li><a href="/consultar.aspx">Como consultar</a></li>
+          <li><a href="/abreviaturas.aspx">Abreviaturas</a></li>
+          <li><a href="https://www.flip.pt/gramatica">Gramática</a></li>
+       <br /><br /><br />  <span class="escolha">Escolha o modo pretendido</span> <input type="checkbox" id="toggle-mob" class="theme-toggler__checkbox sr-only" /><br /><br />
+  <label for="toggle-mob" class="toggle" id="theme-toggler-mob">
+  <span>Toggle dark mode</span>
+</label>
+        </ul>
+           <script>
+             var toggle = document.getElementById("toggle");
+
+             var storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+             if (storedTheme)
+               document.documentElement.setAttribute('data-theme', storedTheme)
+
+
+             toggle.onclick = function () {
+               var currentTheme = document.documentElement.getAttribute("data-theme");
+               var targetTheme = "light";
+
+               if (currentTheme === "light") {
+                 targetTheme = "dark";
+               }
+
+               document.documentElement.setAttribute('data-theme', targetTheme)
+               localStorage.setItem('theme', targetTheme);
+             };
+
+           </script>
+          <script>
+            var toggle = document.getElementById("toggle-mob");
+
+            var storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+            if (storedTheme)
+              document.documentElement.setAttribute('data-theme', storedTheme)
+
+
+            toggle.onclick = function () {
+              var currentTheme = document.documentElement.getAttribute("data-theme");
+              var targetTheme = "light";
+
+              if (currentTheme === "light") {
+                targetTheme = "dark";
+              }
+
+              document.documentElement.setAttribute('data-theme', targetTheme)
+              localStorage.setItem('theme', targetTheme);
+            };
+          </script>
+          </nav>
+        </nav>
+      </header>
+      
+  
+
+      
+  
+  <div class="dp-pesquisa">
+    <div class="dp-pesquisa__variante seleccao-variante">
+      <h5 id="var_pt" data-lid="2070" class="dp-variante__opcao --micro variante">PT</h5>
+      <h5 id="var_br" data-lid="1046" class="dp-variante__opcao --micro variante">BR</h5>
+    </div>
+    <div class="dp-pesquisa__separador"></div>
+    <div class="dp-pesquisa__input ">
+      <div id="searchButton" class="dp-pesquisa__input--icon" type="submit" >
+
+        <img src="/img/dicionario_icon_search.svg" width="31" height="31" alt="Pesquisar"/>
+      </div>
+      <input name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$SearchWordTextBox" type="text" value="detrimento" maxlength="70" id="wordMeaningContentPlaceHolder_wordMeaningControl_SearchWordTextBox" class="dp-input-pesquisa input-pesquisa" autofocus="autofocus" placeholder="Pesquisa" autocomplete="off" onkeypress="return event.keyCode != 13;" />
+    
+       <input type="hidden" id="cp" name="cp" value="1"></input>
+       
+      <ul class="dp-pesquisa__dropdown pb-auto-complete">
+      </ul>
+    </div>
+
+      <a href="#settingsModal" rel="modal:open" class="dp-icon dp-pesquisa__settings --clear">
+        <img src="/img/dicionario_icon_settings.svg" data-src="/img/dicionario_icon_settings.svg" data-hover="/img/dicionario_icon_settings_hover.svg" width="31" height="31" alt="Definições" id="dp_settings_icon">
+      </a>
+    
+<div id="cssCoresContainer">
+  
+</div>
+<div id="cssAcordoContainer">
+  <style>.dAO { display: none; } .aAO { display: inline; }</style>
+</div>
+<div id="cssLinguaContainer">
+  <style>.varpt {display: inline;} .varpb {display: none;}</style>
+</div>
+
+<script>
+
+  var usaAcordoCookieName = 'DLPO_UsaAcordo';
+  var antesAcordoCookieName = 'DLPO_AntesAcordo';
+  var lidAcordoCookieName = 'DLPO_LanguageID';
+  var cookieExpirationTime = 365;
+  $(function () {
+    var usaAcordoCheck = $('#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_UsaAcordoCheck') // $('#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_UsaAcordoCheck');
+    var antesAcordoRadio = $('#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_AntesAcordoRadio');
+    var depoisAcordoRadio = $('#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_DepoisAcordoRadio');
+    var langPTRadio = $('#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_PTRadio');
+    var langBRRadio = $('#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_BRRadio');
+    var acordoCssContainer = $('#cssAcordoContainer');
+    var langCssContainer = $('#cssLinguaContainer');
+    var saveSettingsLink = $('#saveSettingsLink');
+    var cancelSettingsLink = $('#cancelSettingsLink');
+
+    cancelSettingsLink.click(function () {
+      if ('True' == 'True') {
+        usaAcordoCheck.checked = true;
+        antesAcordoRadio.disabled = false;
+        depoisAcordoRadio.disabled = false;
+        //antesAcordoRadio.removeAttr("disabled");
+        //depoisAcordoRadio.removeAttr("disabled");
+        if ('True' == 'True')
+          antesAcordoRadio.checked = true;
+        else
+          depoisAcordoRadio.checked = true;
+      } else {
+        if ('True' == 'True')
+          antesAcordoRadio.checked = true;
+        else
+          depoisAcordoRadio.checked = true;
+        usaAcordoCheck.checked = false;
+        antesAcordoRadio.disabled = true;
+        depoisAcordoRadio.disabled = true;
+      }
+
+      if (2070 == 2070)
+        langPTRadio.attr("checked", "checked");
+      else
+        langBRRadio.attr("checked", "checked");
+       
+
+    });
+
+    usaAcordoCheck.click(function () {   
+      if (this.checked) {
+        antesAcordoRadio.removeAttr("disabled");
+        depoisAcordoRadio.removeAttr("disabled");
+      } else {
+        antesAcordoRadio.attr("disabled", "disabled");
+        depoisAcordoRadio.attr("disabled", "disabled");
+      }
+    });
+
+    if (readCookie('tutorial') == null) {
+      $('#cookies_warning').show();
+    }
+
+
+  });
+
+
+</script>
+<style>
+  input#wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_UsaTooltipsCheck {
+    visibility: hidden;
+}
+</style>
+
+
+
+  <div id="settingsModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<form>
+  <div class="modal-header">
+    <h2 id="myModalLabel" class="mb-12">Definições</h2>
+   
+  </div>
+  <div class="modal-body">
+    <h4 class="mb-4">Acordo Ortográfico de 1990</h4><br />
+     <label class="checkbox2 inline">
+   
+      <span class="h4">Destacar grafias alteradas</span>
+      <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_MostraCoresCheck" type="checkbox" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$MostraCoresCheck" />
+       </label>
+    <br /> <br /><br />
+   
+   
+      <span class="h4">Usar Acordo Ortográfico</span>
+         <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_UsaAcordoCheck" type="checkbox" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$UsaAcordoCheck" checked="checked" />
+
+    <div class="dp-modal__checkboxes">
+      <label class="dp-modal__checkbox radio2 inline pb-align-radio-img" title="Antes do Acordo" style="white-space: nowrap;">
+       
+        <span class="h6">Antes</span>
+       <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_AntesAcordoRadio" type="radio" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$Acordo" value="AntesAcordoRadio" checked="checked" />
+        <img width="32" height="26" src="/img/dicionario_icon_aAO.svg" />
+      </label>
+      <label class="dp-modal__checkbox radio2 inline pb-align-radio-img" title="Depois do Acordo" style="white-space: nowrap;">
+      
+        <span class="h6">Depois</span>
+          <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_DepoisAcordoRadio" type="radio" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$Acordo" value="DepoisAcordoRadio" />
+        <img width="32" height="16" src="/img/dicionario_icon_dAO.svg" />
+      </label>
+    </div>
+   
+
+    <h4 class="mb-4">Variedade do Português</h4>
+
+     <div class="dp-modal__checkboxes">
+    <label class="d-none dp-modal__checkbox radio2 inline pb-align-radio-img" title="Norma europeia" style="white-space: nowrap;">
+     
+      <span class="h6">Norma europeia</span>
+       <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_PTRadio" type="radio" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$Lingua" value="PTRadio" checked="checked" />
+    </label>
+    <label class="d-none dp-modal__checkbox radio2  inline pb-align-radio-img" title="Norma brasileira" style="white-space: nowrap;">
+ 
+      <span class="h6">Norma brasileira</span>
+           <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_BRRadio" type="radio" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$Lingua" value="BRRadio" />
+    </label>
+          </div>
+ 
+    </div>
+
+      <input id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_UsaTooltipsCheck" type="checkbox" name="ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$UsaTooltipsCheck" />
+    
+
+    <div class="mt-20" style="display: none;" id="cookies_warning">
+      <h6 class="--micro">
+          <span class="fw-500">Importante:</span> as definições acima são guardadas em cookies. Se os cookies não forem permitidos, esta janela aparecerá sempre que visitar o site.
+      </h6>
+    </div>
+    <div class="dp-modal__rodape">
+      <a id="cancelSettingsLink" class="--no-link dp-botao dp-botao__texto dp-botao__texto--cinza btn" href="#close-modal" rel="modal:close">Cancelar</a>
+      <a id="wordMeaningContentPlaceHolder_wordMeaningControl_acordoControl_saveSettingsLinkButton" class="dp-botao dp-botao__preenchido" href="javascript:__doPostBack(&#39;ctl00$wordMeaningContentPlaceHolder$wordMeaningControl$acordoControl$saveSettingsLinkButton&#39;,&#39;&#39;)">Guardar</a>
+    </div>
+   </div>
+  </form>
+</div>
+
+ 
+        <script type="text/javascript">
+          $.modal.defaults = {
+            blockerClass: "modal_settings",  // CSS class added to the overlay (blocker).
+          };
+          $('#settingsModal').on($.modal.OPEN, function (event, modal) {
+            $(this).parent().prependTo($("form:first"));
+          });
+        </script>
+    <script type="text/javascript">
+      $("#dp_settings_icon").mouseover(function () {
+        $(this).attr('src', $(this).data("hover"));
+      }).mouseout(function () {
+        $(this).attr('src', $(this).data("src"));
+      });
+       //$('#ex1').on($.modal.OPEN, function (event, modal) {
+       //  $(this).parent().prependTo($("form:first"));
+       //});
+
+        </script>
+
+    </div>
+    </div>
+
+
+
+  <script defer>
+$(function () {
+
+      $('ul.pb-auto-complete a').on('click', function () {
+        //_gaq.push(['_trackEvent', 'Pesquisa', 'Pesquisa por Autocomplete', $(this).text()]);
+      });
+
+      $('#wordMeaningContentPlaceHolder_wordMeaningControl_SearchWordTextBox').bind('keyup', typing);
+      $('#wordMeaningContentPlaceHolder_wordMeaningControl_SearchWordTextBox').bind('blur', function (event) {
+        setTimeout(function () {
+          var ul = $('ul.pb-auto-complete');
+          ul.hide();
+        }, 500);
+      });
+
+      var lastRequest = null;
+
+      function typing(e) {
+        var ul = $('ul.pb-auto-complete');
+        var items = $('ul.pb-auto-complete li:not(.sep)');
+        var textBox = $('#wordMeaningContentPlaceHolder_wordMeaningControl_SearchWordTextBox');
+
+        if (textBox.val().length == 0) {
+          ul.hide();
+        }
+
+        if (e.keyCode == 13) { //Enter
+          var activeItem = $('.active', ul);
+          if (activeItem.length != 0) {
+            
+            if (window.location.href?.startsWith('http://localhost/Pesquisar/') || window.location.href === 'http://localhost/pesquisar_definicoes') {
+              window.location = "pesquisar_definicoes/" + $('a', activeItem).text();
+            } else {
+              //_gaq.push(['_trackEvent', 'Pesquisa', 'Pesquisa por Autocomplete', $('a', activeItem).text()]);
+              window.location = "./" + $('a', activeItem).text();
+            }
+            e.stopPropagation();
+            return false;
+          } else {
+            
+            if (window.location.href?.startsWith('http://localhost/Pesquisar/') || window.location.href === 'http://localhost/pesquisar_definicoes') {
+              window.location = "Pesquisar/" + $.trim(textBox.val());
+            } else {
+              window.location = "./" + $.trim(textBox.val());
+            }
+            e.stopPropagation();
+            return false;
+          }
+        } else if (e.keyCode == 38 || e.keyCode == 40) { //Up or Down
+         if (items.length != 0) {
+           var activeItem = $('.active', ul);
+           if (e.keyCode == 38) {
+             if (activeItem.length == 0) { //Nenhum seleccionado
+               items.eq(items.length - 1).addClass('active');
+             } else {
+               activeItem.removeClass('active');
+               items.eq(items.index(activeItem) - 1).addClass('active');
+             }
+           } else if (e.keyCode == 40) { //Down
+             if (activeItem.length == 0) { //Nenhum seleccionado
+               items.eq(0).addClass('active');
+             } else {
+               activeItem.removeClass('active');
+               items.eq(items.index(activeItem) + 1).addClass('active');
+             }
+
+           }
+           activeItem = $('.active', ul);
+           //textBox.val(activeItem.length != 0 ? activeItem.text() : textBox.attr('pb-original-text'));
+         }
+         e.stopPropagation();
+         return false;
+       } else {
+
+         textBox.attr('pb-original-text', textBox.val());
+         if (lastRequest != null) lastRequest.abort();
+         lastRequest = $.ajax({
+           dataType: "text",
+           url: "PalavraAutoComplete.aspx?langvar=" + (true ? 'pt' : 'pb') + "&ua=" + readCookie('DLPO_UsaAcordo') + "&q=" + encodeURIComponent(textBox.val()),
+            success: gotResults,
+            cache: false
+          });
+        }
+      }
+
+      function gotResults(data) {
+        var ul = $('ul.pb-auto-complete');
+        var textBox = $('#wordMeaningContentPlaceHolder_wordMeaningControl_SearchWordTextBox');
+        ul.html('');
+        var wordsArray = data.split('\n');
+        if (wordsArray.length > 1) {
+          var options = new Array();
+          for (var i = 0; i < wordsArray.length - 1 && i < 12; i++) {
+            var option;
+            var divide = wordsArray[i].split('|');
+            var word = divide[0];
+            var imgSrc = divide[1] == "DropaAO" ? "<img width='32' height='16' src='img/dicionario_icon_aAO.svg' class='mr-12' />" : divide[1] == "DropdAO" ? "<img width='32' height='16' src='img/dicionario_icon_dAO.svg' class='mr-12' />" : "";
+            if (window.location.href?.startsWith('http://localhost/Pesquisar/') || window.location.href == 'http://localhost/pesquisar_definicoes') {
+              ul.append($('<li><a class="resultado --clear" href="Pesquisar/' + word + '">' + (imgSrc + word.replace(textBox.val(), '<span>' + textBox.val() + "</span>")) + '</a></li>'));
+            } else {
+              ul.append($('<li><a class="resultado --clear" href="./' + word + '">' + (imgSrc + word.replace(textBox.val(), '<span>' + textBox.val() + "</span>")) + '</a></li>'));
+            }
+          }
+          ul.show();
+        }
+      }
+
+});
+
+
+
+    $('#searchButton').bind('click', function (event) {
+      event.preventDefault();
+      
+        window.location = "./" + $.trim($('#wordMeaningContentPlaceHolder_wordMeaningControl_SearchWordTextBox').val());
+      
+      return false;
+    });
+
+    function validateSearchField(source, arguments) {
+      var input = $('#' + source.controltovalidate);
+      if (input.val() == "") {
+        input.focus();
+        arguments.IsValid = false;
+      } else {
+        arguments.IsValid = true;
+      }
+      return;
+    }
+
+    $(function () {
+
+      var lidAcordoCookieName = 'DLPO_LanguageID';
+      var lid = getCookie(lidAcordoCookieName);
+      var selectors = $(".seleccao-variante .variante");
+
+      var availableLids = selectors.map(function () {
+        return $(this).data("lid").toString();
+      }).toArray();
+
+      if (availableLids.indexOf(lid) < 0) {
+        lid = 2070;
+        setCookie(lidAcordoCookieName, lid);
+      }
+
+      var selected = selectors.filter(function () {
+        return $(this).data("lid") == lid;
+      });
+      selected.addClass("seleccionada");
+
+      selectors.click(function () {
+        var myLid = $(this).data("lid");
+        setCookie(lidAcordoCookieName, myLid);
+        selectors.removeClass("seleccionada");
+        $(this).addClass("seleccionada");
+
+        if ($("head").data("SearchWord"))
+          location.reload();
+      });
+    });
+
+  </script>
+
+
+
+
+
+    </div>
+    <div class="container">
+      <div class="col-lg-12">
+        
+ 
+ 
+
+
+  <div id="pesquisadas">
+
+    <h2 class="mt-32 mais">
+      Mais pesquisadas do dia
+      <div class="dp-linha--horizontal"></div>
+     </h2>
+   
+    <ul><li><div class="author dp-botao"><a class="--clear" href='/significa' >significa</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/termos' >termos</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/sacar' >sacar</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/também' >também</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/entrar' >entrar</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/copie' >copie</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/quiçá' >quiçá</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/bónus' >bónus</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/inefável' >inefável</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/estiver' >estiver</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/quando' >quando</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/todos' >todos</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/insulana' >insulana</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/pragmático' >pragmático</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/continuar' >continuar</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/pagamento' >pagamento</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/clique' >clique</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/grátis' >grátis</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/gente' >gente</a></div></li><li><div class="author dp-botao"><a class="--clear" href='/instalar' >instalar</a></div></li></ul>
+  </div>
+
+         <br />
+        <!-- Priberam -->
+        <ins class="adsbygoogle"
+          style="display: block"
+          data-ad-client="ca-pub-9778675243250141"
+          data-ad-slot="4750529848"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+        
+        <script>
+          setTimeout(function () { (adsbygoogle = window.adsbygoogle || []).push({}) }, 400);
+        </script>
+        <br />
+        <br />
+        
+      </div>
+      <div class="dp-conteudo">
+        <div class="dp-conteudo__esquerda">
+          
+    <script>
+      pp_gemius_extraparameters = [];
+      pp_gemius_extraparameters.push('gA=Homepage_do_site');
+    </script>
+    <script >$(function () {
+        for (var t = document.getElementsByClassName("onq-youtube-player"), e = 0; e < t.length; e++)t[e].onclick = function () {
+          var t = document.createElement("iframe"), e = "true" == this.dataset.ssv ? "1" : "0", s = "true" == this.dataset.spc ? "1" : "0", i = "true" == this.dataset.sta ? "1" : "0", a = "true" == this.dataset.dkc ? "1" : "0", r = "true" == this.dataset.ecc ? "1" : "0", o = "true" == this.dataset.eap ? "1" : "0"; for (t.setAttribute("src", "//www.youtube.com/embed/" + this.dataset.id + "?rel=" + e + "&controls=" + s + "&showinfo=" + i + "&disablekb=" + a + "&cc_load_policy=" + r + "&autoplay=" + o), t.setAttribute("frameborder", "0"), t.setAttribute("id", "youtube-iframe"), t.setAttribute("style", "width: 100%; height: 100%; position: absolute; top: 0; left: 0;"), "true" == this.dataset.afs && t.setAttribute("allowfullscreen", ""); this.firstChild;)this.removeChild(this.firstChild); this.appendChild(t)
+        }
+      });</script>
+
+  <article class="pb-def">
+    
+<script>
+  DefinicaoPalavra("detrimento", true)
+
+</script>
+
+
+<div id="resultados">
+  <header>
+    <h1><strong>detrimento</strong></h1> 
+    <div class="dp-linha--horizontal"></div>
+    <div>
+  <div style="background-color:#dadadd;display:none;"><b>Sabia que?</b> Pode consultar o significado de qualquer palavra abaixo com um clique. Experimente!
+      </div>
+  <div>
+    <div class="dp-definicao">
+      <div class="verbeteh1">
+        <div class="dp-definicao-header">
+          <div><span class="varpt">detrimento</span><span class="varpb">detrimento</span></div><span class="h6 varpt"><span></span></span><span class="h6 varpb"></span></div>
+        <div class="p dp-divisao-silabica">
+          (
+          <span class="varpt"><span class="titpalavra">de·tri·men·to</span> <span class="varpt"></span></span><span class="varpb"><span class="titpalavra"><p>de·tri·men·to</p></span> </span>
+          )
+        </div>
+      </div>
+      <h4 style="" class="varpt ml-12 pt-12 pb-4 --pequeno"><br><span class="">nome masculino</span></h4>
+      <p class="py-4 dp-definicao-linha"><span class="ml-12 h6 --pequeno">1.
+          </span><span class="ml-4 p"><span class="def">Dano, prejuízo.</span></span></p><br><p class="py-4 dp-definicao-linha">
+        <h4 class="mt-8 mb-4" id="em detrimento de">em detrimento de</h4><span class="ml-4 p"><span class="def"><span class="ml-4 mr-8">•</span>Causando prejuízo ou desvantagem em (ex.: <i>há indícios de favorecimento de um concorrente em detrimento dos outros</i>).</span></span></p>
+      <div class="my-12 dp-seccao-icon"><img src="/img/dicionario_icon_etimology.svg" width="20" height="20" class="mr-8" alt="etimologia"><span class="p t-nowrap">Origem etimológica:</span><span class="ml-8 def p">latim <i>detrimentum, -i</i>.
+        </span></div>
+    </div>
+    <div id="aa39582"><script defer>
+        $(function() {verificaRelacionadasDef(39582, "detrimento","","#aa39582");})
+      </script></div>
+  </div>
+</div>
+  </header>
+</div>
+
+  </article>
+  <div class="quadro">
+    
+
+
+<div class="dp-seccao-titulo">
+    <h3 class="--pequeno">Auxiliares de tradução</h3>
+    <div class="dp-aux-traducao p">Traduzir "detrimento" para: 
+      <a id="ContentPlaceHolder1_translateControl_ESButton_langButton" title="Espanhol" class="pb-lang-button --link" href="Traduzir/ES/detrimento">Espanhol</a>
+<div id="ContentPlaceHolder1_translateControl_ESButton_translateContentContainer" class="pb-translate-content" style="display: none;">
+    <h6>
+        Espanhol</h6>
+    <div class="pb-translate-meaning">
+        
+    </div>
+</div>
+
+      <a id="ContentPlaceHolder1_translateControl_FRButton_langButton" title="Francês" class="pb-lang-button --link" href="Traduzir/FR/detrimento">Francês</a>
+<div id="ContentPlaceHolder1_translateControl_FRButton_translateContentContainer" class="pb-translate-content" style="display: none;">
+    <h6>
+        Francês</h6>
+    <div class="pb-translate-meaning">
+        
+    </div>
+</div>
+
+      <a id="ContentPlaceHolder1_translateControl_ENButton_langButton" title="Inglês" class="pb-lang-button --link" href="Traduzir/EN/detrimento">Inglês</a>
+<div id="ContentPlaceHolder1_translateControl_ENButton_translateContentContainer" class="pb-translate-content" style="display: none;">
+    <h6>
+        Inglês</h6>
+    <div class="pb-translate-meaning">
+        
+    </div>
+</div>
+
+    </div>
+</div>
+
+    
+    <div id="ContentPlaceHolder1_vizinhos_vizinhosContainer">
+    <div id="ContentPlaceHolder1_vizinhos_vizinhos" class="dp-seccao-titulo">
+        <h3 class="--pequeno">Palavras vizinhas</h3>
+        <div id="ContentPlaceHolder1_vizinhos_vizinhosContent">
+          <div><div class="pb-result"><div class="dp-lista-palavras"><a title="detrição" href="/detri%C3%A7%C3%A3o">detrição</a><h5 class="dp-palavra-atual py-2 px-8">detrimento</h5><a title="detrimentoso" href="/detrimentoso">detrimentoso</a><a title="detrítico" href="/detr%C3%ADtico">detrítico</a><a title="detritívoro" href="/detrit%C3%ADvoro">detritívoro</a><a title="detrito" href="/detrito">detrito</a><a title="detruncar" href="/detruncar">detruncar</a></div><div></div></div></div>
+          </div>
+    </div>
+</div>
+
+
+    
+    <div id="ContentPlaceHolder1_searchWordsRelated_SearchWordContentPanel">
+	
+    
+
+            <div id="ContentPlaceHolder1_searchWordsRelated_Div1">
+                <div class="dp-seccao-titulo">
+                    <h3 class="--pequeno">
+                      Esta palavra no dicionário
+                    </h3>
+                    <div>
+                       <div><div class="pb-result"><div class="dp-lista-palavras"><a title="imparcial" href="/imparcial">imparcial</a><a title="grafocêntrico" href="/grafoc%C3%AAntrico">grafocêntrico</a><a title="colusão" href="/colus%C3%A3o">colusão</a><a title="logicismo" href="/logicismo">logicismo</a><a title="meritocracia" href="/meritocracia">meritocracia</a><a title="behaviorismo" href="/behaviorismo">behaviorismo</a></div></div></div>
+                     </div>
+                    <div class="dp-botao-wrapper">
+                      <a id="ContentPlaceHolder1_searchWordsRelated_SeeMoreSync" class="--clear dp-botao dp-botao__texto dp-botao__texto--cinza --micro" href="Pesquisar/detrimento">Ver mais</a>
+                    </div>
+                    <span class="pb-content-source">
+                        
+                    </span>
+                </div>
+            </div>
+        
+
+
+</div>
+
+    
+    
+    
+    
+      <section>
+    
+
+<br /><br />
+
+      <h3 class="--pequeno dp-barra-rosa balto"><b>Dúvidas linguísticas</B></h3>
+  <br />
+
+<span><style xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:Priberam="default">
+      #resposta_a_duvida A, .#resposta_a_duvida A:link, .#resposta_a_duvida A:active, .#resposta_a_duvida A:visited {
+      text-decoration:underline;
+      }
+      #ver_tambem A, #ver_tambem A:link, #ver_tambem A:active, #ver_tambem A:visited {
+      text-decoration:underline;
+      }
+    </style><script xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:Priberam="default">
+      
+				function MostraDetalhe(URLDestino,DuvidaID) {
+					location.href = URLDestino + "?DID=" + DuvidaID;
+				}
+			
+    </script><div width="90%" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:Priberam="default"><div><b><a href="&#xA;            javascript:MostraDetalhe(&quot;https://www.flip.pt/Duvidas-Linguisticas/Duvida-Linguistica/DID&quot;,2763)&#xA;          "><strong>étimos latinos nos dicionários</strong></a></b></div><div><br><strong><span class="def">A minha dúvida é a respeito da etimologia de determinadas palavras cuja raiz é de origem latina, por ex. <i>bondade, sensibilidade, depressão</i>, etc. No Dicionário Priberam elas aparecem com a terminação nominativa mas noutros dicionários parece-me que estão na terminação ablativa e não nominativa. Gostaria que me esclarecessem.</span></strong></div><div id="resposta_a_duvida"><span class="def">O <i>Dicionário Priberam da 
+Língua Portuguesa</i> regista, por exemplo, na etimologia de <i>
+<a href="https://dicionario.priberam.org/bondade">
+bondade</a>,
+<a href="https://dicionario.priberam.org/sensibilidade">
+sensibilidade</a></i> ou <i>
+<a href="https://dicionario.priberam.org/depressão">
+depressão</a></i>, as formas  que são normalmente enunciadas 
+na forma do nominativo, seguida do genitivo: <i>bonitas, bonitatis</i> (ou <i>
+bonitas</i>, <i>-atis</i>)<i>; sensibilitas, sensibilitatis</i> (ou <i>
+sensibilitas</i>, <i>-atis</i>) e <i>depressio, depressionis</i> (ou <i>
+depressio</i>, <i>-onis</i>).<br/>
+<br/>Noutros dicionários 
+gerais de língua portuguesa, é muito usual o registo da etimologia latina 
+através da forma do acusativo sem a desinência <i>-m</i> (não se trata, como à 
+primeira vista pode parecer, do ablativo). Isto acontece por ser o acusativo o 
+caso lexicogénico, isto é, o caso latino que deu origem à maioria das palavras 
+do português, e por, na evolução do latim para o português, o <i>-m</i> da 
+desinência acusativa ter invariavelmente desaparecido. Assim, alguns dicionários registam, por exemplo, na etimologia de <i>bondade</i>, <i>sensibilidade</i> ou <i>depressão</i>, as formas <i>bonitate, sensibilitate</i> e <i>depressione</i>, 
+que foram extrapoladas, respectivamente, dos acusativos <i>bonitatem, 
+sensibilitatem</i> e <i>depressionem</i>.<br/>
+<br/>Esta opção de apresentar o acusativo apocopado pode causar alguma perplexidade 
+nos consulentes dos dicionários, que depois não encontram estas formas em 
+dicionários de latim. Alguns dicionários optam por assinalar a queda do <i>-m</i>, 
+colocando um hífen no final do étimo latino (ex.: <i>bonitate-, sensibilitate-,</i>
+<i>depressione-</i>). Outros, mais raros, como o <i>Dicionário da Língua 
+Portuguesa Contemporânea da Academia das Ciências de Lisboa</i> ou o <i>
+Dicionário Houaiss da Língua Portuguesa</i> optaram por enunciar os étimos 
+latinos (ex.: <i>bonitas, -atis; sensibilitas, -atis</i>, <i>depressio, -onis</i>), 
+não os apresentando como a maioria dos dicionários; o <i>Dicionário da Língua 
+Portuguesa Contemporânea da Academia das Ciências de Lisboa</i> não enuncia o 
+étimo latino dos verbos, referenciando apenas a forma do infinitivo (ex.: <i>
+fazer < facere; sentir < sentire</i>).</span><br></div></div> <br/><hr/><style xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:Priberam="default">
+      #resposta_a_duvida A, .#resposta_a_duvida A:link, .#resposta_a_duvida A:active, .#resposta_a_duvida A:visited {
+      text-decoration:underline;
+      }
+      #ver_tambem A, #ver_tambem A:link, #ver_tambem A:active, #ver_tambem A:visited {
+      text-decoration:underline;
+      }
+    </style><script xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:Priberam="default">
+      
+				function MostraDetalhe(URLDestino,DuvidaID) {
+					location.href = URLDestino + "?DID=" + DuvidaID;
+				}
+			
+    </script><div width="90%" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:Priberam="default"><div><b><a href="&#xA;            javascript:MostraDetalhe(&quot;https://www.flip.pt/Duvidas-Linguisticas/Duvida-Linguistica/DID&quot;,578)&#xA;          "><strong>maiúsculas no nome de disciplinas</strong></a></b></div><div><br><strong><span class="def">O nome das disciplinas escreve-se com maiúsculas?</span></strong></div><div id="resposta_a_duvida"><span class="def">Apesar de usualmente as disciplinas ou áreas de estudo surgirem grafadas em maiúscula, existe grande flexibilidade na maiusculização em casos como este.<br/>
+<br/>
+O <i><a href="https://www.priberam.pt/docs/AcOrtog45_73.pdf">Acordo Ortográfico de 1945</a></i>, válido para a norma europeia do português, apenas previa, na sua Base XLIII, a colocação de maiúsculas “nos nomes de ciências, ramos científicos e artes, quando designam disciplinas escolares ou quadros de estudo pedagogicamente organizados: aluno de Medicina; licenciou-se em Direito [...]”.<br/>
+<br/>
+O <i><a href="https://www.priberam.pt/docs/FormOrtog43.pdf">Formulário Ortográfico de 1943</a></i>, válido para a norma brasileira do português, previa, no ponto 6.º da sua Base XVI, o uso de inicial maiúscula "nos nomes que designam artes, ciências ou disciplinas, bem como nos que sintetizam, em sentido elevado, as manifestações do engenho do saber".<br/>
+<br/>
+O <i><a href="https://www.priberam.pt/docs/AcOrtog90.pdf">Acordo Ortográfico 
+de 1990</a></i>, válido para todas as variedades do português, estabelece a opcionalidade de letra minúscula ou maiúscula nestes casos. Com efeito, a alínea <i>g</i>) do ponto 1.º da
+<a href="https://www.flip.pt/Acordo-Ortografico/Texto/Base-XIX-Das-minusculas-e-maiusculas.aspx">
+Base XIX</a> do Acordo de 1990 prevê letra inicial minúscula para "nomes que designam domínios do saber, cursos e disciplinas (opcionalmente, também com maiúscula)".</span><br></div></div></span><br />
+<div style="text-align: left;">
+    <center><strong><a class="botaorosa" href="https://www.flip.pt/Duvidas-Linguisticas.aspx">Ver todas</a></strong></center>
+</div>
+
+  </section>
+    </div>
+
+
+          <br />
+          <br />
+        </div>
+        <div class="dp-conteudo__direita">
+          <div class="sidebar">
+            </i>
+            
+ <div class="widget">
+  <div class="my-0 dp-seccao-titulo">
+    <h3 class="--pequeno"><strong>Palavra do dia</strong></h3>
+  </div>
+  <a href="DoDiaRSS.aspx" target="_blank" class="pb-rss-icon" alt="Palavra do Dia"></a>
+  <span></span>
+  <div>
+  <div>
+    <div class="dp-definicao">
+      <div class="verbeteh1">
+        <div class="dp-definicao-header">
+          <div><span class="varpt">pletora</span><span class="varpb">pletora</span></div><span class="h6 varpt"><span class="dp-ortoepia ortoepia dp-so">
+        |ó|
+      </span><span></span></span><span class="h6 varpb"><span class="dp-ortoepia ortoepia dp-so">
+        |ó|
+      </span></span></div>
+        <div class="p dp-divisao-silabica">
+          (
+          <span class="varpt"><span class="titpalavra">ple·to·ra</span> <span class="varpt"></span></span><span class="varpb"><span class="titpalavra"><p>ple·to·ra</p></span> </span>
+          )
+        </div>
+      </div>
+      <h4 style="" class="varpt ml-12 pt-12 pb-4 --pequeno"><br><span class="">nome feminino</span></h4>
+      <p class="py-4 dp-definicao-linha"><span class="ml-12 h6 --pequeno">1.
+          </span><span class="varpt"><span class=""><span class="ml-4 h6 --pequeno">
+                  [<Dominio_ext_aAO>Medicina</Dominio_ext_aAO>]
+                </span></span></span><span class="varpb"><span class=""><span class="ml-4 h6 --pequeno">
+                    [<Dominio_ext_pb>Medicina</Dominio_ext_pb>]
+                  </span></span></span><span class="ml-4 p"><span class="def">Superabundância de humores ou sangue.</span></span></p>
+      <p class="py-4 dp-definicao-linha"><span class="ml-12 h6 --pequeno">2.
+          </span><span class="varpt"><span class=""><span class="ml-4 h6 --pequeno">
+                  [Figurado]
+                </span></span></span><span class="varpb"><span class=""><span class="ml-4 h6 --pequeno">
+                    [Figurado]
+                  </span></span></span><span class="ml-4 p"><span class="def">Excesso ou superabundância de alguma coisa (ex.: <i>pletora de encargos; pletora sensual</i>).</span></span></p>
+      <p class="py-4 dp-definicao-linha"><span class="ml-12 h6 --pequeno">3.
+          </span><span class="varpt"><span class=""><span class="ml-4 h6 --pequeno">
+                  [Figurado]
+                </span></span></span><span class="varpb"><span class=""><span class="ml-4 h6 --pequeno">
+                    [Figurado]
+                  </span></span></span><span class="ml-4 p"><span class="def">Mal-estar causado por excesso de vitalidade, de trabalho ou de <span class="varpt"><pt><span class="aAO def"><aAO>actividade</aAO></span></pt></span> fisiológica.</span></span></p>
+      <p class="py-4 dp-definicao-linha"><span class="ml-12 h6 --pequeno">4.
+          </span><span class="varpt"><span class=""><span class="ml-4 h6 --pequeno">
+                  [<Dominio_ext_aAO>Botânica</Dominio_ext_aAO>]
+                </span></span></span><span class="varpb"><span class=""><span class="ml-4 h6 --pequeno">
+                    [<Dominio_ext_pb>Botânica</Dominio_ext_pb>]
+                  </span></span></span><span class="ml-4 p"><span class="def">Estado de uma planta à qual um excesso de alimentação impede de dar flores e frutos.</span></span></p>
+      <div class="my-12 dp-seccao-icon"><img src="/img/dicionario_icon_etimology.svg" width="20" height="20" class="mr-8" alt="etimologia"><span class="p t-nowrap">Origem etimológica:</span><span class="ml-8 def p">grego <i>plethôre, -es</i>, plenitude, saturação.
+        </span></div>
+    </div>
+    <div id="aa76118"><script defer>
+        $(function() {verificaRelacionadasDef(76118, "pletora","","#aa76118");})
+      </script></div>
+  </div>
+</div>
+  <div style="text-align: right;">
+    <strong>
+      
+    </strong>
+  </div>
+ </div>
+            
+          </div>
+          <br />
+        </div>
+      </div>
+      </div>
+    </div>
+  </form>
+   <footer>
+            <div class="container">
+                <div class="col-lg-2 col-md-3 col-sm-3">
+                    <a href="https://www.priberam.com" class="brand">
+                        <img src="/img/claro.png" width="140" height="36" alt="Dicionário Online Priberam de Português">
+                        <span class="circle"></span>
+                    </a>
+                </div>
+                <div class="col-lg-6 col-md-5 col-sm-9">
+                    <ul class="footer-links">
+                        <li><a href="https://www.priberam.com/contact-us/" target="_blank">Contactos</a></li>
+                        <li><a href="https://www.priberam.com/" target="_blank">Priberam</a></li>
+                        <li><a href="https://www.flip.pt/" target="_blank">FLiP</a></li>
+                        <li><a href="https://www.legix.pt/" target="_blank">LegiX</a></li>
+                      <li><a href="https://www.plainx.com/" target="_blank">plainX</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="copyright">
+                        <p class="copyright">© 2023 Priberam Informática, S.A. Todos os direitos reservados</p>
+                    </div>
+                </div>
+            </div>
+    </footer>
+
+
+   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.24/dist/fancybox/fancybox.umd.min.js"></script> 
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.24/dist/fancybox/fancybox.min.css" />
+  <script>
+    Fancybox.bind('[data-fancybox="gallery"]', {
+      //
+    });
+  </script>
+  <script>
+    $(function () {
+      $('.dp-navegacao__menu a').filter(function () {
+        if (window.location.href?.startsWith('http://localhost/Pesquisar/')) {
+          return this.href === 'http://localhost/pesquisar_definicoes'
+        } else { return this.href === window.location.href }
+      }).addClass('--active');
+
+      $(".custom-close").on('click', function () {
+        $('#myModal').modal('hide');
+      });
+    });
+    function getProxyURL() {
+      return "https://dicionario.priberam.org/";
+    }
+
+    function getBaseURL() {
+      return "";
+    }
+  </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFSCQ08Q7K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZFSCQ08Q7K');
+</script>
+
+
+  <!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+  <script>
+    function SeparateOrtoepia() {
+      $('.dp-so').each(function (x) {
+        if (this?.innerHTML?.includes("| ou |")) {
+          this.innerHTML = this.innerHTML.split('| ou |').join('|<span class="mx-8 h6 --pequeno">ou</span>|');
+        }
+      });
+    }
+     
+    function DefineInside1() {
+      console.log("define1");
+
+      $('.def').each(function (x) {
+        if (this?.innerHTML?.includes("| ou |")) {
+          this.innerHTML = this.innerHTML.split('| ou |').join('|<span class="mx-8 h6 --pequeno">ou</span>|');
+          return;
+        } else iterateContent(this);
+      });
+
+      $('span.word_wrap').each(function (x) {
+        separateWords(this);
+      });
+
+      $('span.word').bind('click', wordMeaningClick);
+
+      if (false) {
+        $('span.word').bind('mouseenter', wordMeaningMouseEnter);
+        $('span.word').bind('mouseleave', wordMeaningMouseLeave);
+        $('.dp-lista-palavras a').attr('title', '');
+        $(document).on('mouseenter', '.dp-lista-palavras a[href]', wordMeaningMouseEnter);
+        $(document).on('mouseleave', '.dp-lista-palavras a[href]', wordMeaningMouseLeave);
+        $(document).on('mouseenter', '.pb-last-searches a', wordMeaningMouseEnter);
+        $(document).on('mouseleave', '.pb-last-searches a', wordMeaningMouseLeave);
+      }
+
+    }
+
+    function AddHoverToPictureIcon() {
+      $(".dp-icon--hover").mouseover(function () {
+        $(this).attr('src', $(this).data("hover"));
+      }).mouseout(function () {
+        $(this).attr('src', $(this).data("src"));
+      });
+    }
+
+    function navigateToAnchor() {
+      console.log("navigateToAnchor");
+      const selectedWord = document.getElementsByClassName('dp-input-pesquisa')[0].value;
+      let locateLocucao = document.getElementById(selectedWord);
+      if (locateLocucao) {
+        locateLocucao.scrollIntoView({ behavior: 'smooth', block: "center", inline: "nearest" });
+        locateLocucao.classList.add("--anchor");
+
+        setTimeout(() => {
+          locateLocucao.classList.remove("--anchor");
+        }, 5000);
+      }
+    }
+
+    function DefineInside(element) {
+      console.log("define  ...");
+
+      $('.def', element).each(function (x) {
+        if (this?.innerHTML?.includes("| ou |")) {
+          console.log(this.innerHTML.split('| ou |').join('|<span class="mx-8">ou</span>|'))
+          this.innerHTML = this.innerHTML.split('| ou |').join('|<span class="mx-8">ou</span>|');
+          console.log(this.innerHTML)
+          return;
+        } else iterateContent(this);
+      });
+
+      $('span.word_wrap', element).each(function (x) {
+        separateWords(this);
+      });
+
+      $('span.word', element).bind('click', wordMeaningClick);
+
+      if (false) {
+        $('span.word', element).bind('mouseenter', wordMeaningMouseEnter);
+        $('span.word', element).bind('mouseleave', wordMeaningMouseLeave);
+        $('.dp-lista-palavras a').attr('title', '');
+        $('.dp-lista-palavras a[href]', element).on('mouseenter', wordMeaningMouseEnter);
+        $('.dp-lista-palavras a[href]', element).on('mouseleave', wordMeaningMouseLeave);
+        $('.pb-last-searches a', element).on('mouseenter', wordMeaningMouseEnter);
+        $('.pb-last-searches a', element).on('mouseleave', wordMeaningMouseLeave);
+      }
+    }
+
+    function wordMeaningClick(event) {
+      window.top.location = "./" + $(this).text();
+    }
+
+    var isMobile = false;
+    $(function () {
+      navigateToAnchor()
+      isMobile = typeof window.orientation !== 'undefined';
+      document.addEventListener("run-google", DefineInside1);
+      document.addEventListener("run-google", SeparateOrtoepia);
+      document.addEventListener("run-google", AddHoverToPictureIcon);
+      //document.addEventListener("run-google", navigateToAnchor);
+    });
+    function wordMeaningMouseEnter(event) {
+
+    }
+
+    function capitaliseFirstLetter(string) {
+      return string.charAt(0).toUpperCase() + string.slice(1);
+    }
+
+    function wordMeaningMouseLeave(event) {
+    }
+
+    function iterateContent(node) {
+      if (node.nodeType == 3) //Text node
+        $(node).wrap('<span class="word_wrap" />');
+      else
+        $(node).contents().each(function (i) {
+          iterateContent(this);
+        });
+    };
+
+    function separateWords(_node) {
+      var node = $(_node);
+      var text = node.text();
+      var newText = "";
+      var open = false;
+      for (var i = 0; i < text.length; i++) {
+        var currentChar = text.charAt(i);
+        if (open) {
+          if (/^[\-A-Za-z\u00C0-\u017F]+$/.test(currentChar))
+            newText = newText.concat(currentChar);
+          else {
+            newText = newText.concat("</span>" + currentChar);
+            open = false;
+          }
+        } else {
+          if (/^[\-A-Za-z\u00C0-\u017F]+$/.test(currentChar)) {
+            newText = newText.concat("<span class='word a'>" + currentChar);
+            open = true;
+          } else
+            newText = newText.concat(currentChar);
+        }
+      }
+      node.html(newText);
+    }
+  </script>
+  <script type="text/javascript">
+    var timeoutvar;
+    function downloadJS() {
+      console.log("time");
+      document.removeEventListener('mousedown', downloadJS);
+      document.removeEventListener('mousemove', downloadJS);
+      document.removeEventListener('touchstart', downloadJS);
+      document.removeEventListener('scroll', downloadJS);
+      document.removeEventListener('keydown', downloadJS);
+      clearTimeout(timeoutvar);
+      document.dispatchEvent(new CustomEvent("run-google"));
+      var element = document.createElement("script");
+      element.setAttribute("client", "ca-pub-9778675243250141");
+      element.setAttribute("crossorigin", "anonymous");
+      element.async = true;
+      element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+      document.body.appendChild(element);
+
+    }
+    function downloadJsAtOnload() {
+      document.addEventListener('mousedown', downloadJS);
+      document.addEventListener('mousemove', downloadJS);
+      document.addEventListener('touchstart', downloadJS);
+      document.addEventListener('scroll', downloadJS);
+      document.addEventListener('keydown', downloadJS);
+      timeoutvar = setTimeout(downloadJS, 15000);
+    };
+    if (window.addEventListener)
+      window.addEventListener("load", downloadJsAtOnload, false);
+    else if (window.attachEvent)
+      window.attachEvent("onload", downloadJsAtOnload);
+    else window.onload = downloadJsAtOnload;
+  </script>
+</body>
+</html>
