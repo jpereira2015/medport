@@ -1,53 +1,37 @@
 import requests
 from bs4 import BeautifulSoup
 
-def fetch_definitions(word):
-    url = f"https://dicionario.priberam.org/{word.replace(' ', '%20')}"
+def fetch_definitions(term):
+    url = f"https://dicionario.priberam.org/{term}"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
 
-    try:
-        # Send HTTP request to the URL
-        response = requests.get(url)
-        response.raise_for_status()
+    definitions = []
+    idiomatic_expressions = []
 
-        # Parse the HTML content using BeautifulSoup
-        soup = BeautifulSoup(response.text, 'html.parser')
+    # Extracting definitions
+    definition_section = soup.find_all('p', class_='dp-definicao-linha')
+    for definition in definition_section:
+        text = definition.get_text(strip=True, separator=' ')
+        definitions.append(text)
 
-        # Extract definitions
-        definitions = soup.find_all("div", class_="dp-definicao")
-        if definitions:
-            print(f"Term: {word.capitalize()}")
-            print("Definitions:")
-            for definition in definitions:
-                print(f"- {definition.find('div', class_='dp-definicao-cartao__descricao').text.strip()}")
+    # Extracting idiomatic expressions
+    idiomatic_section = soup.find_all('h4', id=lambda x: x and x.startswith('agulha'))
+    for expression in idiomatic_section:
+        expression_text = expression.get_text(strip=True)
+        description = expression.find_next('p').get_text(strip=True, separator=' ')
+        idiomatic_expressions.append(f"{expression_text}: {description}")
 
-        else:
-            print("No definitions found")
+    return definitions, idiomatic_expressions
 
-        # Output idiomatic expressions and specific uses
-        print("\nIdiomatic Expressions and Specific Uses:")
-        expressions_list = ["agulha de marear", "agulha magnética", "procurar agulha em palheiro"]
-        for expression in expressions_list:
-            expression_tag = soup.find("a", {"name": expression})
-            if expression_tag:
-                description = expression_tag.find_next("div", class_="def").text.strip()
-                print(f"{expression}: {description}")
-            else:
-                print(f"{expression}: No description found")
-
-        # Optionally, find and output etymology
-        etymology_section = soup.find("a", {"name": "etimologia"})
-        if etymology_section:
-            etymology = etymology_section.find_next("div", class_="def")
-            if etymology:
-                print("\nEtymology:")
-                print(etymology.text.strip())
-            else:
-                print("No etymology found")
-
-    except requests.exceptions.RequestException as e:
-        print(f"Failed to retrieve the webpage for {word}: {e}")
-    except Exception as e:
-        print(f"An error occurred while fetching definitions for {word}: {e}")
-
-# Example usage
-fetch_definitions("agulha")
+# Example usage for multiple terms
+terms = ["agulha", "casa"]
+for term in terms:
+    definitions, idiomatic_expressions = fetch_definitions(term)
+    print(f"Definitions for {term}:")
+    for definition in definitions:
+        print(definition)
+    print("\nIdiomatic Expressions for {term}:")
+    for expression in idiomatic_expressions:
+        print(expression)
+    print("\n" + "-"*50 + "\n")

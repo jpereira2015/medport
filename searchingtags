@@ -1,15 +1,13 @@
-from bs4 import BeautifulSoup
+import requests
 
-# Open the file and read its contents
-with open('combined_html.txt', 'r') as file:
-    html_content = file.read()
+url = "https://dicionario.priberam.org/casa"
+response = requests.get(url)
 
-# Create a BeautifulSoup object and parse the HTML content
-soup = BeautifulSoup(html_content, 'html.parser')
+if response.status_code == 200:
+    xml_data = response.text
 
-# Find all instances of a specific tag, e.g., 'div'
-div_tags = soup.find_all('example')
-
-# Print the div tags
-for tag in div_tags:
-    print(tag)
+    with open("agulha.txt", "w") as file:
+        file.write(xml_data)
+        print("XML data saved to output.txt")
+else:
+    print("Failed to retrieve XML data from the URL")
